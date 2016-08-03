@@ -1,0 +1,34 @@
+>>> 
+Success!
+input language = ar
+detected language = arabic
+###
+Success!
+input language = ar
+detected language = arabic
+###
+Success!
+input language = per
+detected language = persian
+###
+Success!
+input language = per
+detected language = persian
+###
+Success!
+input language = por
+detected language = portuguese
+###
+Success!
+input language = por
+detected language = portuguese
+###
+FAIL!
+input language = sp
+detected language = persian
+###
+Success!
+input language = sp
+detected language = spanish
+###
+>>> 
